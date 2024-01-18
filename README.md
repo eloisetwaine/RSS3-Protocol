@@ -12,10 +12,13 @@
 </p>
 <!-- markdownlint-enable -->
 
+# Attention
+
+⚠️⚠️⚠️ Archived - This is the archive branch for the RSS3 Protocol from v0.1.0 to v0.4.0, please switch to [the main branch](https://github.com/RSS3-Network/RSS3-Protocol/tree/main) for the latest version.
+
+It functions as a historical reference for the RSS3 Community's earlier efforts but may not provide an up-to-date perspective on the current state of the RSS3 Protocol or Network.
+
 # RSS3 Protocol
-
-⚠️ Deprecated - The standards have evolved into [RSS3 Unified Metadata Schemas](https://docs.rss3.io/docs/unified-metadata-schemas).
-
 
 RSS3 is an open information syndication protocol that aims to support efficient and decentralized information distribution in Web3.
 
