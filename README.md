@@ -28,18 +28,18 @@ We all agree that information should be more freely distributed in the Web3 era,
 
 ## Historical drafts
 
-[Changelog](https://github.com/NaturalSelectionLabs/RSS3/blob/main/CHANGELOG.md)
+[Changelog](https://github.com/RSS3-Network/REPs/blob/archive/CHANGELOG.md)
 
-- [![RSS3](https://badge.rss3.workers.dev/?version=v0.3.0)](https://github.com/NaturalSelectionLabs/RSS3/blob/main/versions/v0.3.0.md)
-- [![RSS3](https://badge.rss3.workers.dev/?version=v0.2.0)](https://github.com/NaturalSelectionLabs/RSS3/blob/main/versions/v0.2.0.md)
-- [![RSS3](https://badge.rss3.workers.dev/?version=v0.1.1)](https://github.com/NaturalSelectionLabs/RSS3/blob/main/versions/v0.1.1.md)
-- [![RSS3](https://badge.rss3.workers.dev/?version=v0.1.0)](https://github.com/NaturalSelectionLabs/RSS3/blob/main/versions/v0.1.0.md)
-- [![RSS3](https://badge.rss3.workers.dev/?version=v0.1.0%20alpha.0)](https://github.com/NaturalSelectionLabs/RSS3/blob/main/versions/v0.1.0-alpha.0.md)
+- [![RSS3](https://badge.rss3.workers.dev/?version=v0.3.0)](https://github.com/RSS3-Network/REPs/blob/archive/versions/v0.3.0.md)
+- [![RSS3](https://badge.rss3.workers.dev/?version=v0.2.0)](https://github.com/RSS3-Network/REPs/blob/archive/versions/v0.2.0.md)
+- [![RSS3](https://badge.rss3.workers.dev/?version=v0.1.1)](https://github.com/RSS3-Network/REPs/blob/archive/versions/v0.1.1.md)
+- [![RSS3](https://badge.rss3.workers.dev/?version=v0.1.0)](https://github.com/RSS3-Network/REPs/blob/archive/versions/v0.1.0.md)
+- [![RSS3](https://badge.rss3.workers.dev/?version=v0.1.0%20alpha.0)](https://github.com/RSS3-Network/REPs/blob/archive/versions/v0.1.0-alpha.0.md)
 
 ## Contributing
 
 RSS3 is a community-based project, built with an open ecosystem and creative developers, and we thank every one for the participation.
 
-- Report irrationality or request feature in [issues](https://github.com/NaturalSelectionLabs/RSS3/issues)
-- Discussion in [discussions](https://github.com/NaturalSelectionLabs/RSS3/discussions)
-- Submit your [pull request](https://github.com/NaturalSelectionLabs/RSS3/pulls)
+- Report irrationality or request features in [issues](https://github.com/RSS3-Network/REPs/issues)
+- Discussion in [discussions](https://github.com/RSS3-Network/REPs/discussions)
+- Submit your [Pull Requests](https://github.com/RSS3-Network/REPs/pulls)
